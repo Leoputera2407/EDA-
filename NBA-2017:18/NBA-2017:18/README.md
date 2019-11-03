@@ -4,7 +4,7 @@ Exploratory Data Analysis of 2017/2018 NBA Regular Season
 
 
 
-####Machine Learning
+#### Machine Learning
 I trained 6 different machine learning classification models to predict whether a given shot would go in. The models I used were the following:
 Logistic Regression
 Random Forest
